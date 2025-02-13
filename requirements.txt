@@ -2,10 +2,15 @@ streamlit
 pandas
 numpy
 joblib
-openpyxl
+openpy
+xl
 keras
 tensorflow
 scikit-learn
 plotly
 requests
 matplotlib
+utils
+warnings
+locale
+scipy
