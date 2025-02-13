@@ -6,7 +6,6 @@ openpyxl
 keras
 tensorflow
 scikit-learn
-plotly.express
-plotly.graph_objs
+plotly
 requests
-matplotlib.pyplot
+matplotlib
