@@ -6,7 +6,7 @@ openpy
 xl
 keras
 tensorflow
-scikit-learn
+sklearn
 plotly
 requests
 matplotlib
