@@ -8,8 +8,7 @@ def show_sidebar():
         st.markdown('''  <b><font color='orange'>Aluno</font></b> <br>
                     Valdinei Ponsoni Linartevich | RM355996<br>
             <b><font color='orange'>Curso</font></b> <br> Pós-Tech Data Analytics | 5DTAT |  FIAP + Alura 
-        
-        <br> <br><b><font color='orange'>Link GitHub</font></b> <br> https://github.com/ponsoni74/passos-magicos-datathon-fiap
+<br> <br><b><font color='orange'>Link GitHub</font></b> <br> https://github.com/ponsoni74/passos-magicos-datathon-fiap
                      <br> <br>  <br>  <br>
             
                     ''', unsafe_allow_html=True)
