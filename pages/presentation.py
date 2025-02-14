@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import requests
+from utils.sidebar import show_sidebar
+
+show_sidebar()
 
 # Logo da Fiap e da Paassos Mágicos
 #st.divider()
