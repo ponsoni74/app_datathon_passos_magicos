@@ -5,8 +5,7 @@ joblib
 openpy
 xl
 keras
-tensorflow
-sklearn
+tensorflor
 plotly
 requests
 matplotlib
