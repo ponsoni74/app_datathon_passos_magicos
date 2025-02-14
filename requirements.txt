@@ -10,6 +10,4 @@ scikit-learn
 plotly
 requests
 matplotlib
-warnings
-locale
 scipy
